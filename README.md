@@ -312,7 +312,7 @@ Through this project, I gained practical experience with:
 
 ## 👨‍💻 Author
 
-**Esqutic**
+**Rushikesh Tayare**
 
 GitHub:  
-https://github.com/Esqutic
+https://github.com/RushikeshTayare
